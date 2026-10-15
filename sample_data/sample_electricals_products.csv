@@ -1,0 +1,21 @@
+sku,name,category,unit,purchase_cost,selling_price,current_stock,reorder_level
+ELEC-WIRE-001,Polycab 1.5 sq mm FR Flame Retardant Copper Wire (90m Coil Red),Wires & Cables,coil,1420.0,1750.0,15,8
+ELEC-WIRE-002,Polycab 2.5 sq mm FR House Wire (90m Coil Blue),Wires & Cables,coil,2180.0,2650.0,12,6
+ELEC-WIRE-003,Havells LifeLine Plus 4.0 sq mm Wire (90m Coil Green),Wires & Cables,coil,3450.0,4100.0,5,4
+ELEC-LED-004,Philips Stellar Bright 9W B22 Cool Day White LED Bulb,Lighting & LED,pcs,75.0,110.0,52,25
+ELEC-LED-005,Syska 12W Emergency Inverter B22 LED Bulb 4hr Backup,Lighting & LED,pcs,260.0,349.0,6,12
+ELEC-LED-006,Crompton 20W Slim LED Batten Tube Light 4ft,Lighting & LED,pcs,185.0,260.0,28,15
+ELEC-LED-007,Wipro 7W Deep Recessed COB Ceiling Downlight Warm White,Lighting & LED,pcs,280.0,390.0,14,8
+ELEC-SW-008,Anchor Roma Classic 6A 1-Way Modular Switch White,Switches & Sockets,pcs,24.0,36.0,140,50
+ELEC-SW-009,Anchor Roma 16A 3-Pin Power Socket with Safety Shutter,Switches & Sockets,pcs,78.0,115.0,38,20
+ELEC-SW-010,Havells Crabtree 2-Module Modular Cover Plate with Frame,Switches & Sockets,pcs,58.0,85.0,32,15
+ELEC-MCB-011,Schneider Electric Easy9 16A Single Pole C-Curve MCB,Circuit Protection & MCB,pcs,145.0,210.0,22,10
+ELEC-MCB-012,Havells Euro-II 32A Double Pole Main Isolator Switch,Circuit Protection & MCB,pcs,310.0,425.0,3,8
+ELEC-MCB-013,Legrand DX3 40A 2-Pole 30mA RCCB Residual Current Breaker,Circuit Protection & MCB,pcs,1680.0,2150.0,0,4
+ELEC-FAN-014,Crompton Hill Briz 1200mm High Speed Ceiling Fan Brown,Fans & Appliances,pcs,1550.0,1950.0,9,5
+ELEC-FAN-015,Havells Ventil Air DB 150mm Louver Exhaust Fan,Fans & Appliances,pcs,1120.0,1420.0,7,4
+ELEC-CON-016,Supreme 25mm Heavy Duty PVC Conduit Pipe 3m (Bundle of 10),Conduits & Piping,bundle,420.0,560.0,14,8
+ELEC-CON-017,Goldmedal Modular Concealed Metal GI Junction Box (8 Module),Conduits & Piping,pcs,82.0,120.0,26,12
+ELEC-ACC-018,Steel Grip PVC Electrical Insulation Tape (Pack of 5 Rolls),Electrical Accessories,roll,48.0,70.0,45,20
+ELEC-ACC-019,GM 3012 4+1 Surge Protector Extension Spike Strip 2m,Electrical Accessories,pcs,320.0,450.0,11,6
+ELEC-ACC-020,Taparia 813 Heavy Duty Line Neon Voltage Tester Screwdriver,Electrical Accessories,pcs,55.0,80.0,20,10

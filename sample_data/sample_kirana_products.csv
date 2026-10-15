@@ -1,0 +1,21 @@
+sku,name,category,unit,purchase_cost,selling_price,current_stock,reorder_level
+SKU-ATTA-001,Aashirvaad Shudh Chakki Atta 5kg,Staples & Grains,packet,235.0,275.0,25,15
+SKU-SALT-002,Tata Salt Vacuum Evaporated Iodized 1kg,Staples & Grains,packet,21.0,28.0,45,20
+SKU-RICE-003,India Gate Basmati Rice 5kg,Staples & Grains,packet,415.0,490.0,15,10
+SKU-DAL-004,Tata Sampann Unpolished Toor Dal 1kg,Pulses & Legumes,packet,138.0,168.0,22,12
+SKU-OIL-005,Fortune Sunlite Sunflower Oil 1L,Edible Oils,pouch,124.0,145.0,8,15
+SKU-OIL-006,Saffola Gold Pro Healthy Lifestyle Oil 1L,Edible Oils,pouch,158.0,188.0,24,10
+SKU-MILK-007,Amul Taaza Homogenised Milk 1L,Dairy & Bakery,carton,62.0,72.0,35,25
+SKU-BUTR-008,Amul Salted Butter 500g,Dairy & Bakery,box,238.0,275.0,4,12
+SKU-BRED-009,Britannia 100% Whole Wheat Bread 400g,Dairy & Bakery,packet,38.0,50.0,18,12
+SKU-MAGI-010,Maggi 2-Minute Masala Noodles 4-Pack,Snacks & Packaged Food,pack,50.0,60.0,50,20
+SKU-PRLE-011,Parle-G Gluco Biscuits 250g Family Pack,Snacks & Packaged Food,packet,24.0,30.0,60,25
+SKU-GDAY-012,Britannia Good Day Cashew Cookies 200g,Snacks & Packaged Food,packet,37.0,45.0,28,15
+SKU-BHUJ-013,Haldiram's Nagpur Aloo Bhujia 400g,Snacks & Packaged Food,packet,94.0,115.0,20,10
+SKU-TEA-014,Brooke Bond Red Label Tea 500g,Beverages,box,218.0,260.0,16,10
+SKU-COF-015,Nescafe Classic Instant Coffee Jar 50g,Beverages,jar,152.0,185.0,14,8
+SKU-SPIC-016,MDH Deggi Mirch Powder 100g,Spices & Masalas,box,72.0,88.0,26,10
+SKU-SPIC-017,Everest Turmeric Powder 200g,Spices & Masalas,box,56.0,70.0,30,12
+SKU-SOAP-018,Dettol Original Bathing Soap 125g,Personal Care,bar,42.0,55.0,32,15
+SKU-PAST-019,Colgate Strong Teeth Toothpaste 200g,Personal Care,tube,96.0,120.0,20,10
+SKU-DET-020,Surf Excel Easy Wash Detergent Powder 1kg,Household & Cleaning,pouch,122.0,148.0,0,12
